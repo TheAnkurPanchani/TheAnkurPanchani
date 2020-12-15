@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=theankurpanchani&show_icons=true&theme=dracula)
 
 <!--
