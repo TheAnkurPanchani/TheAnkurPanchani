@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=theankurpanchani&include_all_commits=true&show_icons=true&theme=dracula)
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=theankurpanchani&include_all_commits=true&show_icons=true&theme=dracula&hide_rank=true)
 
 <!--
 **TheAnkurPanchani/TheAnkurPanchani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
